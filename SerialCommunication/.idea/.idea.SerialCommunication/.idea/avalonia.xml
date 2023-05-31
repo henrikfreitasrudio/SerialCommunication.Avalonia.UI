@@ -3,6 +3,7 @@
   <component name="AvaloniaProject">
     <option name="projectPerEditor">
       <map>
+        <entry key="SerialCommunication/App.axaml" value="SerialCommunication/SerialCommunication.csproj" />
         <entry key="SerialCommunication/Views/MainWindow.axaml" value="SerialCommunication/SerialCommunication.csproj" />
       </map>
     </option>
